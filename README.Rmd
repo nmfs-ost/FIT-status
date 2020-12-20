@@ -1,0 +1,79 @@
+---
+title: "GitHub Dashboard"
+output: github_document
+# provide user name to include all public, non-fork repos from the owner
+all_by_owner: espinielli
+# the repository where this repo exists
+status_repo: espinielli/status
+# list of repositories by owner name and repo (appear before owner's repos)
+repos:
+  # espinielli:
+  # - osn
+  euctrl-pru:
+  - trrrj
+  - nvctr
+  # - airport-capacity-resilience
+---
+
+![](https://github.com/`r rmarkdown::metadata$status_repo`/workflows/Render%20Status/badge.svg)  
+`r strftime(Sys.time(), "%F %T %Z")`
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(purrr)
+library(dplyr)
+library(glue)
+```
+
+```{r gh-get-repos}
+source("gh-repo-info.R")
+
+repo_list <- rmarkdown::metadata$repos
+owner <- rmarkdown::metadata$all_by_owner
+if (!is.character(owner) && length(owner) == 1) {
+  warning("`all_by_owner` should be a single GitHub user account")
+  owner <- NULL
+}
+
+repos <- gh_get_repo_status(repo_list, all_by_owner = owner)
+
+has_repos_without_actions <- any(is.na(repos$badge_url))
+```
+
+```{r repo-status}
+repos %>% 
+  select_if(negate(is.list)) %>%
+  # repos with Github Actions have badges
+  filter(!is.na(badge_url)) %>%
+  mutate(
+    commit_message = map_chr(commit_message, ~ strsplit(.x, "\n")[[1]][1]),
+    commit_id_6 = substr(commit_id, 1, 6)
+  ) %>% 
+  transmute(
+    Repo = glue("[{full_name}]({html_url_repo})"),
+    Stars = stargazers_count,
+    Subscribers = subscribers_count,
+    Issues = open_issues_count,
+    Forks = forks_count,
+    Status = ifelse(!is.na(badge_url), glue("[![]({badge_url})]({html_url_run})"), ""),
+    Commit = glue('<a href="{html_url_repo}/commit/{commit_id}" title="{commit_message}">{commit_id_6}</a>')
+  ) %>% 
+  knitr::kable(escape = FALSE)
+```
+
+```{r eval=has_repos_without_actions, results="asis"}
+cat("## Repos without Github Actions")
+
+repos %>% 
+  select_if(negate(is.list)) %>%
+  filter(is.na(badge_url)) %>%
+  transmute(
+    Repo = glue("[{full_name}]({html_url_repo})"),
+    Stars = stargazers_count,
+    Subscribers = subscribers_count,
+    Issues = open_issues_count,
+    Forks = forks_count
+  ) %>% 
+  knitr::kable(escape = FALSE)
+```
+
