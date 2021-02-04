@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)  
-2021-02-03 07:24:12 UTC
+2021-02-04 07:22:15 UTC
 
 | Repo                                                                              | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                  | Commit                                                                                                                                                                                    |
 | :-------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,8 +12,8 @@ GitHub Dashboard
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                           |     8 |           1 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/R-CMD-check/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334047205)                                  | <a href="https://github.com/euctrl-pru/nvctr/commit/6cdb615648d4608921be0b3e73e008683a691f60" title="prepare for v0.1.5">6cdb61</a>                                                       |
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                           |     8 |           1 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/pkgdown/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334047201)                                      | <a href="https://github.com/euctrl-pru/nvctr/commit/6cdb615648d4608921be0b3e73e008683a691f60" title="prepare for v0.1.5">6cdb61</a>                                                       |
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                           |     8 |           1 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/Render%20README/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334034661)                              | <a href="https://github.com/euctrl-pru/nvctr/commit/d6a83f433c74bd11480381dbab33fd97762386fb" title="new patch version">d6a83f</a>                                                        |
-| [espinielli/italian-comuni-bot](https://github.com/espinielli/italian-comuni-bot) |     3 |           1 |      0 |     0 | [![](https://github.com/espinielli/italian-comuni-bot/workflows/italian-comuni-bot/badge.svg)](https://github.com/espinielli/italian-comuni-bot/actions/runs/533054788) | <a href="https://github.com/espinielli/italian-comuni-bot/commit/10afd2c5fd7e3c1a9506e11eb04f6e402a462cf9" title="stored index of last tweeted map">10afd2</a>                            |
-| [espinielli/status](https://github.com/espinielli/status)                         |     0 |           1 |      0 |     0 | [![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)](https://github.com/espinielli/status/actions/runs/533153385)                            | <a href="https://github.com/espinielli/status/commit/01afb0cbaf80d3b8e2d7081af9e3d04cfc7af444" title="[status] 2021-02-02 07:28:46 UTC">01afb0</a>                                        |
+| [espinielli/italian-comuni-bot](https://github.com/espinielli/italian-comuni-bot) |     3 |           1 |      0 |     0 | [![](https://github.com/espinielli/italian-comuni-bot/workflows/italian-comuni-bot/badge.svg)](https://github.com/espinielli/italian-comuni-bot/actions/runs/536268578) | <a href="https://github.com/espinielli/italian-comuni-bot/commit/008a28009002259ff3ebe004ed886f768fc9e652" title="stored index of last tweeted map">008a28</a>                            |
+| [espinielli/status](https://github.com/espinielli/status)                         |     0 |           1 |      0 |     0 | [![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)](https://github.com/espinielli/status/actions/runs/536370031)                            | <a href="https://github.com/espinielli/status/commit/8b6a355dc385d890c6797fedb05ec14e9cfe76ce" title="[status] 2021-02-03 07:24:24 UTC">8b6a35</a>                                        |
 
 ## Repos without Github Actions
 
@@ -32,7 +32,7 @@ GitHub Dashboard
 | [espinielli/theblitz](https://github.com/espinielli/theblitz)                            |     1 |           1 |      0 |     0 |
 | [espinielli/addressbook](https://github.com/espinielli/addressbook)                      |     0 |           1 |      0 |     0 |
 | [espinielli/bartholomew\_explained](https://github.com/espinielli/bartholomew_explained) |     0 |           2 |      0 |     1 |
-| [espinielli/blog](https://github.com/espinielli/blog)                                    |     0 |           1 |      0 |     0 |
+| [espinielli/blog](https://github.com/espinielli/blog)                                    |     0 |           1 |      0 |     1 |
 | [espinielli/cf](https://github.com/espinielli/cf)                                        |     0 |           1 |      0 |     0 |
 | [espinielli/circflows](https://github.com/espinielli/circflows)                          |     0 |           1 |      0 |     0 |
 | [espinielli/circr](https://github.com/espinielli/circr)                                  |     0 |           1 |      0 |     0 |
