@@ -14,7 +14,7 @@ espinielli,firs,espinielli/firs,1,1,0,2,FALSE,https://github.com/espinielli/firs
 espinielli,flowsr,espinielli/flowsr,0,1,0,0,FALSE,https://github.com/espinielli/flowsr,0,NA,NA,NA,NA,NA,NA
 espinielli,homebrew-rubinetto,espinielli/homebrew-rubinetto,0,1,0,0,FALSE,https://github.com/espinielli/homebrew-rubinetto,0,NA,NA,NA,NA,NA,NA
 espinielli,ifrflows,espinielli/ifrflows,0,1,0,0,FALSE,https://github.com/espinielli/ifrflows,0,NA,NA,NA,NA,NA,NA
-espinielli,italian-comuni-bot,espinielli/italian-comuni-bot,3,1,0,0,FALSE,https://github.com/espinielli/italian-comuni-bot,3,4525345,https://github.com/espinielli/italian-comuni-bot/workflows/italian-comuni-bot/badge.svg,https://github.com/espinielli/italian-comuni-bot/actions/runs/560199235,failure,stored index of last tweeted map,f14f258f01d287b195da51b4bac346d49b74f1ac
+espinielli,italian-comuni-bot,espinielli/italian-comuni-bot,3,1,0,0,FALSE,https://github.com/espinielli/italian-comuni-bot,3,4525345,https://github.com/espinielli/italian-comuni-bot/workflows/italian-comuni-bot/badge.svg,https://github.com/espinielli/italian-comuni-bot/actions/runs/563182680,success,stored index of last tweeted map,052ccef4461531a5807a2fa7e46d54252e3c47d6
 espinielli,knowledgecity,espinielli/knowledgecity,0,1,0,0,FALSE,https://github.com/espinielli/knowledgecity,0,NA,NA,NA,NA,NA,NA
 espinielli,osn,espinielli/osn,2,1,1,1,FALSE,https://github.com/espinielli/osn,2,NA,NA,NA,NA,NA,NA
 espinielli,pycalcal,espinielli/pycalcal,20,4,2,8,FALSE,https://github.com/espinielli/pycalcal,20,NA,NA,NA,NA,NA,NA
@@ -23,7 +23,7 @@ espinielli,raytracing,espinielli/raytracing,0,1,0,0,FALSE,https://github.com/esp
 espinielli,RintheAIR,espinielli/RintheAIR,2,0,0,0,FALSE,https://github.com/espinielli/RintheAIR,2,NA,NA,NA,NA,NA,NA
 espinielli,scrap,espinielli/scrap,0,1,0,0,FALSE,https://github.com/espinielli/scrap,0,NA,NA,NA,NA,NA,NA
 espinielli,showandtell,espinielli/showandtell,0,1,0,0,FALSE,https://github.com/espinielli/showandtell,0,NA,NA,NA,NA,NA,NA
-espinielli,status,espinielli/status,0,1,0,0,FALSE,https://github.com/espinielli/status,0,4394767,https://github.com/espinielli/status/workflows/Render%20Status/badge.svg,https://github.com/espinielli/status/actions/runs/560298431,NA,[status] 2021-02-11 07:22:48 UTC,58f91028201e60dfcd3015f4d31a3b4798a15e7c
+espinielli,status,espinielli/status,0,1,0,0,FALSE,https://github.com/espinielli/status,0,4394767,https://github.com/espinielli/status/workflows/Render%20Status/badge.svg,https://github.com/espinielli/status/actions/runs/563255317,NA,[status] 2021-02-12 07:22:36 UTC,39fbcf7efe2b98b75ef427d1e28d9416735ec229
 espinielli,stcalcal,espinielli/stcalcal,3,1,0,1,FALSE,https://github.com/espinielli/stcalcal,3,NA,NA,NA,NA,NA,NA
 espinielli,theblitz,espinielli/theblitz,1,1,0,0,FALSE,https://github.com/espinielli/theblitz,1,NA,NA,NA,NA,NA,NA
 espinielli,watch,espinielli/watch,0,1,0,0,FALSE,https://github.com/espinielli/watch,0,NA,NA,NA,NA,NA,NA
