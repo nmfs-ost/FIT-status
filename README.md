@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)  
-2021-08-10 07:19:51 UTC
+2021-08-11 07:20:57 UTC
 
 | Repo                                                                                    | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                       | Commit                                                                                                                                                         |
 | :-------------------------------------------------------------------------------------- | ----: | ----------: | -----: | ----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,7 +13,7 @@ GitHub Dashboard
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                                 |     8 |           2 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/pkgdown/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334047201)                                           | <a href="https://github.com/euctrl-pru/nvctr/commit/6cdb615648d4608921be0b3e73e008683a691f60" title="prepare for v0.1.5">6cdb61</a>                            |
 | [euctrl-pru/nvctr](https://github.com/euctrl-pru/nvctr)                                 |     8 |           2 |      2 |     0 | [![](https://github.com/euctrl-pru/nvctr/workflows/Render%20README/badge.svg)](https://github.com/euctrl-pru/nvctr/actions/runs/334034661)                                   | <a href="https://github.com/euctrl-pru/nvctr/commit/d6a83f433c74bd11480381dbab33fd97762386fb" title="new patch version">d6a83f</a>                             |
 | [espinielli/italian-comuni-bot](https://github.com/espinielli/italian-comuni-bot)       |     3 |           1 |      0 |     0 | [![](https://github.com/espinielli/italian-comuni-bot/workflows/italian-comuni-bot/badge.svg)](https://github.com/espinielli/italian-comuni-bot/actions/runs/565957859)      | <a href="https://github.com/espinielli/italian-comuni-bot/commit/4b9a88f33527b8d7d2ac4be0c22dfe9978df3a0c" title="stored index of last tweeted map">4b9a88</a> |
-| [espinielli/status](https://github.com/espinielli/status)                               |     0 |           1 |      0 |     0 | [![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)](https://github.com/espinielli/status/actions/runs/1115702218)                                | <a href="https://github.com/espinielli/status/commit/64187b8083ab2a9234e1fac5c7f4c1b9af9a8077" title="[status] 2021-08-09 07:20:06 UTC">64187b</a>             |
+| [espinielli/status](https://github.com/espinielli/status)                               |     0 |           1 |      0 |     0 | [![](https://github.com/espinielli/status/workflows/Render%20Status/badge.svg)](https://github.com/espinielli/status/actions/runs/1119132126)                                | <a href="https://github.com/espinielli/status/commit/fa711e13bb08edd05e1ac25e5fa3ece4777573ca" title="[status] 2021-08-10 07:20:06 UTC">fa711e</a>             |
 | [espinielli/test-starter-academic](https://github.com/espinielli/test-starter-academic) |     0 |           1 |      0 |     0 | [![](https://github.com/espinielli/test-starter-academic/workflows/Updater%20\(WIP\)/badge.svg)](https://github.com/espinielli/test-starter-academic/actions/runs/815105843) | <a href="https://github.com/espinielli/test-starter-academic/commit/7b8eeb41f9c9562377000ce37e7d2ef51b662c92" title="docs: update">7b8eeb</a>                  |
 
 ## Repos without Github Actions
@@ -24,7 +24,7 @@ GitHub Dashboard
 | [espinielli/astraljs](https://github.com/espinielli/astraljs)                            |     7 |           2 |      0 |     1 |
 | [espinielli/dotfiles](https://github.com/espinielli/dotfiles)                            |     3 |           1 |      0 |     0 |
 | [espinielli/stcalcal](https://github.com/espinielli/stcalcal)                            |     3 |           1 |      0 |     1 |
-| [espinielli/osn](https://github.com/espinielli/osn)                                      |     2 |           1 |      2 |     1 |
+| [espinielli/osn](https://github.com/espinielli/osn)                                      |     2 |           1 |      1 |     1 |
 | [espinielli/RintheAIR](https://github.com/espinielli/RintheAIR)                          |     2 |           0 |      0 |     0 |
 | [espinielli/chronos](https://github.com/espinielli/chronos)                              |     1 |           2 |      0 |     1 |
 | [espinielli/eweb](https://github.com/espinielli/eweb)                                    |     1 |           1 |      0 |     0 |
