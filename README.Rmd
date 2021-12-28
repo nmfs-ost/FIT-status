@@ -2,16 +2,16 @@
 title: "GitHub Dashboard"
 output: github_document
 # provide user name to include all public, non-fork repos from the owner
-all_by_owner: espinielli
+all_by_owner: nmfs-fish-tools
 # the repository where this repo exists
-status_repo: espinielli/status
+status_repo: nmfs-fish-tools/status
 # list of repositories by owner name and repo (appear before owner's repos)
-repos:
+# repos:
   # espinielli:
   # - osn
-  euctrl-pru:
-  - trrrj
-  - nvctr
+  # euctrl-pru:
+  # - trrrj
+  # - nvctr
   # - airport-capacity-resilience
 ---
 
