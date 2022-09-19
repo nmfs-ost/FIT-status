@@ -96,6 +96,9 @@ nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041347,https://github.com/nmfs-fish-tools/SSMSE/workflows/R-CMD-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345113,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041498,https://github.com/nmfs-fish-tools/SSMSE/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345115,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,STATCAM,nmfs-fish-tools/STATCAM,0,0,0,0,2,https://github.com/nmfs-fish-tools/STATCAM,FALSE,NA,NA,NA,NA,NA,NA
+nmfs-fish-tools,status,nmfs-fish-tools/status,0,0,0,0,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3084018801,NA,"try to update gha
+
+use v2 instead of v1",3e5f3fb494ab0391832decae16c35e0d45e2f660
 nmfs-fish-tools,stock_assessment_rmd_templates,nmfs-fish-tools/stock_assessment_rmd_templates,0,0,0,0,2,https://github.com/nmfs-fish-tools/stock_assessment_rmd_templates,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,VES-V,nmfs-fish-tools/VES-V,1,1,0,0,2,https://github.com/nmfs-fish-tools/VES-V,FALSE,17352043,https://github.com/nmfs-fish-tools/VES-V/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/VES-V/actions/runs/1866245955,success,move to dropbox links,01fac8e8baf5504f5aaa076efe70e93b9a1eb0e4
 nmfs-fish-tools,VPA,nmfs-fish-tools/VPA,0,0,0,0,2,https://github.com/nmfs-fish-tools/VPA,FALSE,NA,NA,NA,NA,NA,NA
