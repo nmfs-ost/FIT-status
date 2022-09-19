@@ -18,14 +18,16 @@ gh_workflows <- memoise::memoise(function(owner, repo, ...) {
 }, cache = cache_memory())
 
 gh_runs <- memoise::memoise(function(owner, repo, workflow_id, ...) {
-  gh(
+
+ tryCatch(
+   gh(
     "/repos/{owner}/{repo}/actions/workflows/{workflow_id}/runs",
     owner = owner,
     repo = repo,
     workflow_id = workflow_id,
     per_page = 1
-  )$workflow_runs[[1]]
-}, cache = cache_memory())
+  )$workflow_runs[[1]], error = function(e) NULL)
+}, cache = memoise::cache_memory())
 
 gh_url <- memoise::memoise(function(url) {
   gh(url)
@@ -64,6 +66,7 @@ gh_repo_stats <- function(repos) {
 }
 
 gh_repo_workflows <- function(repos) {
+
   # repos should be a tibble with owner, repo
   repos$.workflows <- repos %>% pmap(gh_workflows)
 
@@ -74,7 +77,12 @@ gh_repo_workflows <- function(repos) {
       badge_url = map_chr(.workflows, "badge_url")
     )
 
-  workflows$runs <- pmap(workflows, gh_runs)
+  workflows$runs  <- pmap(workflows, gh_runs)
+
+  #get rid of any workflows where the query failed.
+  workflows <- workflows[-which(unlist(lapply(workflows$runs, is.null))), ]
+  #rm any null values
+
   workflows %>%
     mutate(
       html_url_run = map_chr(runs, "html_url"),
@@ -90,6 +98,7 @@ gh_get_repo_status <- function(
   all_by_owner = NULL,
   .write_csv = !interactive()
 ) {
+
   if (is.null(repo_list) && is.null(all_by_owner)) {
     stop("At least one repo must be listed or a username must be provided in `all_by_owner`")
   }
@@ -110,7 +119,10 @@ gh_get_repo_status <- function(
     repos <- bind_rows(repos, owner_repos)
   }
 
-  workflows <- repos %>% select(owner, repo) %>% gh_repo_workflows()
+
+  workflows <- repos %>% select(owner, repo)
+
+  workflows <- workflows %>% gh_repo_workflows()
 
   repos <- bind_rows(
     inner_join(repos, workflows, by = by_vars),
@@ -126,3 +138,4 @@ gh_get_repo_status <- function(
 
   repos
 }
+
