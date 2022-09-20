@@ -74,31 +74,33 @@ nmfs-fish-tools,SEINE,nmfs-fish-tools/SEINE,0,0,0,0,2,https://github.com/nmfs-fi
 nmfs-fish-tools,shinystocks,nmfs-fish-tools/shinystocks,0,0,0,0,2,https://github.com/nmfs-fish-tools/shinystocks,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SRFIT,nmfs-fish-tools/SRFIT,0,0,0,0,2,https://github.com/nmfs-fish-tools/SRFIT,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SS-DL,nmfs-fish-tools/SS-DL,0,0,0,0,4,https://github.com/nmfs-fish-tools/SS-DL,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3075439865,success,test double curly braces in problem bib entry,86f2e8bca93f224929de1ec05b92d15dea463509
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14596404,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2584275057,failure,ignore more files to reduce runs of workflows,3cbd0cafaf432d21812c0809f21cfb49b9435acb
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084516799,success,"Merge pull request #143 from nmfs-fish-tools/style-doc-code
+
+Style code and document",9241dec042cdf67dc9a76d79e96d265b49302e5b
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14596404,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084205462,success,"Merge pull request #142 from nmfs-fish-tools/update-readme
+
+Update readme",2a50502aa16f71f96a4d7c74ff2c139213b785a8
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15212805,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-style/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1454874035,success,"Merge pull request #104 from nmfs-fish-tools/style-code
 
 Style code",cd50bbd2b4d78dd5b590b33f1642b8943a8cde6f
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15212806,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-docs/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1454874034,success,"Merge pull request #104 from nmfs-fish-tools/style-code
 
 Style code",cd50bbd2b4d78dd5b590b33f1642b8943a8cde6f
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15284786,https://github.com/nmfs-fish-tools/SSMSE/workflows/update-bookdown/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2584011888,success,"docs: update readme (#137)
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15284786,https://github.com/nmfs-fish-tools/SSMSE/workflows/update-bookdown/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084205425,success,"Merge pull request #142 from nmfs-fish-tools/update-readme
 
-Co-authored-by: k-doering-NOAA <k-doering-NOAA@users.noreply.github.com>",ece07ae6413d928c76333ae153c22eafa27ae4d8
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15412721,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2584054533,success,"style and docs: run devtools::document() and styler::style_pkg() (#138)
+Update readme",2a50502aa16f71f96a4d7c74ff2c139213b785a8
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15412721,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084516797,success,"Merge pull request #143 from nmfs-fish-tools/style-doc-code
 
-Co-authored-by: k-doering-NOAA <k-doering-NOAA@users.noreply.github.com>",eb0b3d2a4cd10f653d4649c8aa2d63ecd298ce78
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,16091679,https://github.com/nmfs-fish-tools/SSMSE/workflows/Render%20README/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2584275168,failure,ignore more files to reduce runs of workflows,3cbd0cafaf432d21812c0809f21cfb49b9435acb
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,20212874,https://github.com/nmfs-fish-tools/SSMSE/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2584064590,success,Deploying to gh-pages from @ nmfs-fish-tools/SSMSE@ece07ae6413d928c76333ae153c22eafa27ae4d8 🚀,8be2f7af6669f57cde706b0ea92fa28fdf7969db
+Style code and document",9241dec042cdf67dc9a76d79e96d265b49302e5b
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,16091679,https://github.com/nmfs-fish-tools/SSMSE/workflows/Render%20README/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084064538,success,test double curly braces in problem bib entry,86f2e8bca93f224929de1ec05b92d15dea463509
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,20212874,https://github.com/nmfs-fish-tools/SSMSE/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084255021,success,Deploying to gh-pages from @ nmfs-fish-tools/SSMSE@2a50502aa16f71f96a4d7c74ff2c139213b785a8 🚀,9287783f8cd363875aa43ea4dfa2629604af1af9
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,23415430,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-bin/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2103366278,success,test update bin workflow,a9fe5db944fcae172664d88fa65f2709b632e9cc
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,23419345,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-ss3/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2190687326,success,test changes to updating ss3 binaries,be5911220ed037686d01f3de42d4bbec08bfec2d
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,29155152,https://github.com/nmfs-fish-tools/SSMSE/workflows/Generate%20JOSS%20pdf/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2754265727,success,test double curly braces in problem bib entry,86f2e8bca93f224929de1ec05b92d15dea463509
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041347,https://github.com/nmfs-fish-tools/SSMSE/workflows/R-CMD-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345113,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041498,https://github.com/nmfs-fish-tools/SSMSE/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345115,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,STATCAM,nmfs-fish-tools/STATCAM,0,0,0,0,2,https://github.com/nmfs-fish-tools/STATCAM,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,status,nmfs-fish-tools/status,0,0,0,0,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3084018801,NA,"try to update gha
-
-use v2 instead of v1",3e5f3fb494ab0391832decae16c35e0d45e2f660
+nmfs-fish-tools,status,nmfs-fish-tools/status,0,0,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3088155725,NA,[status] 2022-09-19 16:28:24 UTC,8550f290dbdc1c54cc6636b98e685bc190bafdd7
 nmfs-fish-tools,stock_assessment_rmd_templates,nmfs-fish-tools/stock_assessment_rmd_templates,0,0,0,0,2,https://github.com/nmfs-fish-tools/stock_assessment_rmd_templates,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,VES-V,nmfs-fish-tools/VES-V,1,1,0,0,2,https://github.com/nmfs-fish-tools/VES-V,FALSE,17352043,https://github.com/nmfs-fish-tools/VES-V/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/VES-V/actions/runs/1866245955,success,move to dropbox links,01fac8e8baf5504f5aaa076efe70e93b9a1eb0e4
 nmfs-fish-tools,VPA,nmfs-fish-tools/VPA,0,0,0,0,2,https://github.com/nmfs-fish-tools/VPA,FALSE,NA,NA,NA,NA,NA,NA
