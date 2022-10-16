@@ -30,7 +30,7 @@ nmfs-fish-tools,FishSET-Map-Viewer,nmfs-fish-tools/FishSET-Map-Viewer,0,0,0,4,2,
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,6,6,0,11,3,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289604,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/2578798057,success,"Merge pull request #45 from nmfs-fish-tools/style-doc-code
 
 Style code and document",b14e20962fd07aec39dbbadb8038553a9d423be6
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,6,6,0,11,3,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/3212390140,success,"Merge pull request #45 from nmfs-fish-tools/style-doc-code
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,6,6,0,11,3,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/3257776471,success,"Merge pull request #45 from nmfs-fish-tools/style-doc-code
 
 Style code and document",b14e20962fd07aec39dbbadb8038553a9d423be6
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,6,6,0,11,3,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18194925,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/2578798058,success,"Merge pull request #45 from nmfs-fish-tools/style-doc-code
@@ -92,7 +92,7 @@ nmfs-fish-tools,SEINE,nmfs-fish-tools/SEINE,0,0,0,0,2,https://github.com/nmfs-fi
 nmfs-fish-tools,shinystocks,nmfs-fish-tools/shinystocks,0,0,0,0,2,https://github.com/nmfs-fish-tools/shinystocks,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SRFIT,nmfs-fish-tools/SRFIT,0,0,0,0,2,https://github.com/nmfs-fish-tools/SRFIT,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SS-DL,nmfs-fish-tools/SS-DL,0,0,0,0,4,https://github.com/nmfs-fish-tools/SS-DL,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3212438060,failure,"Merge pull request #143 from nmfs-fish-tools/style-doc-code
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3257853478,success,"Merge pull request #143 from nmfs-fish-tools/style-doc-code
 
 Style code and document",9241dec042cdf67dc9a76d79e96d265b49302e5b
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14596404,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084205462,success,"Merge pull request #142 from nmfs-fish-tools/update-readme
@@ -118,7 +118,7 @@ nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041347,https://github.com/nmfs-fish-tools/SSMSE/workflows/R-CMD-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345113,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,13,13,4,19,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041498,https://github.com/nmfs-fish-tools/SSMSE/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345115,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,STATCAM,nmfs-fish-tools/STATCAM,0,0,0,0,2,https://github.com/nmfs-fish-tools/STATCAM,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,status,nmfs-fish-tools/status,0,0,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3254787708,NA,[status] 2022-10-14 07:14:20 UTC,5c7585450fc99f36155cb31e089dd24098954f64
+nmfs-fish-tools,status,nmfs-fish-tools/status,0,0,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3258596525,NA,[status] 2022-10-15 07:08:25 UTC,16fa0c06c17cb2706f5ec672ccc91423e5d18ddf
 nmfs-fish-tools,stock_assessment_rmd_templates,nmfs-fish-tools/stock_assessment_rmd_templates,0,0,0,0,2,https://github.com/nmfs-fish-tools/stock_assessment_rmd_templates,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,VES-V,nmfs-fish-tools/VES-V,1,1,0,0,2,https://github.com/nmfs-fish-tools/VES-V,FALSE,17352043,https://github.com/nmfs-fish-tools/VES-V/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/VES-V/actions/runs/1866245955,success,move to dropbox links,01fac8e8baf5504f5aaa076efe70e93b9a1eb0e4
 nmfs-fish-tools,VPA,nmfs-fish-tools/VPA,0,0,0,0,2,https://github.com/nmfs-fish-tools/VPA,FALSE,NA,NA,NA,NA,NA,NA
