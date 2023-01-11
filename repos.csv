@@ -82,7 +82,7 @@ nmfs-fish-tools,r4MAS,nmfs-fish-tools/r4MAS,1,1,2,6,5,https://github.com/nmfs-fi
 
 Add ensemble model engine capacity to nmfs-fish-tools/r4MAS",8a8996916b13cca18414c9419c16241ef81f00fc
 nmfs-fish-tools,REMORA,nmfs-fish-tools/REMORA,0,0,1,0,2,https://github.com/nmfs-fish-tools/REMORA,FALSE,17780148,https://github.com/nmfs-fish-tools/REMORA/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/REMORA/actions/runs/3677507537,success,Mods for 1.4.0a,847d65284ded8ca706c868df127b8b65c59caa5a
-nmfs-fish-tools,Resources,nmfs-fish-tools/Resources,4,4,3,0,4,https://github.com/nmfs-fish-tools/Resources,FALSE,NA,NA,NA,NA,NA,NA
+nmfs-fish-tools,Resources,nmfs-fish-tools/Resources,4,4,3,2,4,https://github.com/nmfs-fish-tools/Resources,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,RIVARD,nmfs-fish-tools/RIVARD,0,0,0,0,2,https://github.com/nmfs-fish-tools/RIVARD,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SCALE,nmfs-fish-tools/SCALE,0,0,0,0,2,https://github.com/nmfs-fish-tools/SCALE,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SEINE,nmfs-fish-tools/SEINE,0,0,0,0,2,https://github.com/nmfs-fish-tools/SEINE,FALSE,NA,NA,NA,NA,NA,NA
@@ -111,7 +111,7 @@ nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,21,9,https://github.com/nmfs
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,21,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041347,https://github.com/nmfs-fish-tools/SSMSE/workflows/R-CMD-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345113,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,21,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041498,https://github.com/nmfs-fish-tools/SSMSE/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345115,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,STATCAM,nmfs-fish-tools/STATCAM,0,0,0,0,2,https://github.com/nmfs-fish-tools/STATCAM,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,status,nmfs-fish-tools/status,0,0,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3880981894,NA,[status] 2023-01-09 07:03:37 UTC,d366d5ad54cb62187256b4b4eb8831ff5607d672
+nmfs-fish-tools,status,nmfs-fish-tools/status,0,0,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3890443909,NA,[status] 2023-01-10 07:03:41 UTC,d4b3dd0436fbf9c9dce1ef33c5766c280e44c4f4
 nmfs-fish-tools,stock_assessment_rmd_templates,nmfs-fish-tools/stock_assessment_rmd_templates,0,0,0,0,2,https://github.com/nmfs-fish-tools/stock_assessment_rmd_templates,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,VES-V,nmfs-fish-tools/VES-V,2,2,0,0,2,https://github.com/nmfs-fish-tools/VES-V,FALSE,17352043,https://github.com/nmfs-fish-tools/VES-V/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/VES-V/actions/runs/1866245955,success,move to dropbox links,01fac8e8baf5504f5aaa076efe70e93b9a1eb0e4
 nmfs-fish-tools,VPA,nmfs-fish-tools/VPA,0,0,0,0,2,https://github.com/nmfs-fish-tools/VPA,FALSE,NA,NA,NA,NA,NA,NA
