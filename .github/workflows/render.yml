@@ -13,7 +13,7 @@ name: Render Status
 jobs:
   render:
     name: Render Status
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -31,7 +31,8 @@ jobs:
       - name: Install dependencies
         run: |
           #install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
-          options(repos = c(REPO_NAME = "https://packagemanager.rstudio.com/all/__linux__/bionic/latest"))
+          # options line below specific to linux 22
+          options(repos = c(REPO_NAME = "https://packagemanager.rstudio.com/all/__linux__/jammy/latest"))
           install.packages(c("rmarkdown", "gh", "memoise", "purrr", "dplyr", "tidyr", "glue", "readr"))
         shell: Rscript {0}
       - name: Render Status Page
