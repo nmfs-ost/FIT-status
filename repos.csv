@@ -111,13 +111,7 @@ nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,21,9,https://github.com/nmfs
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,21,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041347,https://github.com/nmfs-fish-tools/SSMSE/workflows/R-CMD-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345113,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,21,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041498,https://github.com/nmfs-fish-tools/SSMSE/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345115,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,STATCAM,nmfs-fish-tools/STATCAM,0,0,0,0,2,https://github.com/nmfs-fish-tools/STATCAM,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,status,nmfs-fish-tools/status,1,1,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3939856096,NA,"Update workflow (#2)
-
-* try to fix
-
-* [status] 2023-01-13 22:13:05 UTC
-
-Co-authored-by: GitHub Actions <actions@github.com>",bf3d4b26d8d6fd1cb76b122ec87ed84c98231036
+nmfs-fish-tools,status,nmfs-fish-tools/status,1,1,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/3946481373,NA,[status] 2023-01-17 13:49:34 UTC,3eada965d7c2d4b2e29161592be985085d992c41
 nmfs-fish-tools,stock_assessment_rmd_templates,nmfs-fish-tools/stock_assessment_rmd_templates,0,0,0,0,2,https://github.com/nmfs-fish-tools/stock_assessment_rmd_templates,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,VES-V,nmfs-fish-tools/VES-V,2,2,0,0,2,https://github.com/nmfs-fish-tools/VES-V,FALSE,17352043,https://github.com/nmfs-fish-tools/VES-V/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/VES-V/actions/runs/1866245955,success,move to dropbox links,01fac8e8baf5504f5aaa076efe70e93b9a1eb0e4
 nmfs-fish-tools,VPA,nmfs-fish-tools/VPA,0,0,0,0,2,https://github.com/nmfs-fish-tools/VPA,FALSE,NA,NA,NA,NA,NA,NA
