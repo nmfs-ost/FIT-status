@@ -124,5 +124,5 @@ nmfs-fish-tools,r4MAS,nmfs-fish-tools/r4MAS,1,1,2,6,5,https://github.com/nmfs-fi
 Add ensemble model engine capacity to nmfs-fish-tools/r4MAS",8a8996916b13cca18414c9419c16241ef81f00fc
 nmfs-fish-tools,shinystocks,nmfs-fish-tools/shinystocks,0,0,0,0,2,https://github.com/nmfs-fish-tools/shinystocks,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,ss3-api-example,nmfs-fish-tools/ss3-api-example,1,1,0,0,2,https://github.com/nmfs-fish-tools/ss3-api-example,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,status,nmfs-fish-tools/status,1,1,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/4361927293,NA,[status] 2023-03-07 07:04:44 UTC,5f5cef13201e1614433f18ce4c3b0bc57bd8f84a
+nmfs-fish-tools,status,nmfs-fish-tools/status,1,1,0,1,2,https://github.com/nmfs-fish-tools/status,FALSE,35269882,https://github.com/nmfs-fish-tools/status/workflows/Render%20Status/badge.svg,https://github.com/nmfs-fish-tools/status/actions/runs/4371903715,NA,[status] 2023-03-08 07:05:14 UTC,16cb46a17c82e85c5993d21811d27f32cff71665
 nmfs-fish-tools,stock_assessment_rmd_templates,nmfs-fish-tools/stock_assessment_rmd_templates,0,0,0,0,2,https://github.com/nmfs-fish-tools/stock_assessment_rmd_templates,FALSE,NA,NA,NA,NA,NA,NA
