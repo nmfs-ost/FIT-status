@@ -125,7 +125,13 @@ nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,13,5,https://githu
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,13,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,41107847,https://github.com/nmfs-fish-tools/ghactions4r/workflows/Codespaces%20Prebuilds/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/3515886339,success,use codespaces4r::add_codespace() to add a codespace,5a2517ab5f9e4d4329a76552422fa10ba8819f0e
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,13,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18195320,https://github.com/nmfs-fish-tools/ghactions4r/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5155998327,success,Built site for ghactions4r: 0.0.3@812e240,3f403b7f62400ad4350e45937584888425a87c74
 nmfs-fish-tools,ht4sa,nmfs-fish-tools/ht4sa,3,3,1,3,5,https://github.com/nmfs-fish-tools/ht4sa,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,journals,nmfs-fish-tools/journals,11,11,0,6,2,https://github.com/nmfs-fish-tools/journals,FALSE,32040731,https://github.com/nmfs-fish-tools/journals/workflows/sync%20math.utah.edu%20fishery-journals/badge.svg,https://github.com/nmfs-fish-tools/journals/actions/runs/5177493574,success,Updates journals bib files using download.yml,32fb3b02fc8cd681ce2b7b62ff508e72f7230a0a
+nmfs-fish-tools,journals,nmfs-fish-tools/journals,11,11,0,6,2,https://github.com/nmfs-fish-tools/journals,FALSE,32040731,https://github.com/nmfs-fish-tools/journals/workflows/sync%20math.utah.edu%20fishery-journals/badge.svg,https://github.com/nmfs-fish-tools/journals/actions/runs/5218212461,success,"Updates journals bib files using download.yml
+
+Pulled out four files because I am not done reviewing them.
+* inst/bib/ecolmodell2020.bib
+* inst/bib/fishres2020.bib
+* inst/bib/jaquacultresdev.bib
+* inst/bib/marpolicy2020.bib",78c2718cd4ba55411edacab7781d832ab12f0056
 nmfs-fish-tools,minimizR,nmfs-fish-tools/minimizR,0,0,0,0,2,https://github.com/nmfs-fish-tools/minimizR,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,nmfSharedUtilities,nmfs-fish-tools/nmfSharedUtilities,0,0,2,0,2,https://github.com/nmfs-fish-tools/nmfSharedUtilities,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,nmfs-fish-tools.github.io,nmfs-fish-tools/nmfs-fish-tools.github.io,3,3,1,1,2,https://github.com/nmfs-fish-tools/nmfs-fish-tools.github.io,FALSE,17757603,https://github.com/nmfs-fish-tools/nmfs-fish-tools.github.io/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/nmfs-fish-tools.github.io/actions/runs/4633025940,success,"Merge pull request #9 from nmfs-fish-tools/simplify_nmfs_fish_tools
