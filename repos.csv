@@ -40,21 +40,13 @@ nmfs-fish-tools,SCALE,nmfs-fish-tools/SCALE,0,0,0,0,2,https://github.com/nmfs-fi
 nmfs-fish-tools,SEINE,nmfs-fish-tools/SEINE,0,0,0,0,2,https://github.com/nmfs-fish-tools/SEINE,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SRFIT,nmfs-fish-tools/SRFIT,0,0,0,0,2,https://github.com/nmfs-fish-tools/SRFIT,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,SS-DL,nmfs-fish-tools/SS-DL,0,0,0,0,4,https://github.com/nmfs-fish-tools/SS-DL,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041498,https://github.com/nmfs-fish-tools/SSMSE/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345115,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,48724002,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-bookdown/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/5283972849,success,uses same workflow but from ss3sim,65ab941ca41d362318c7ab30cd4e03e02a3709f5
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14596404,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/5681340377,success,bump version,76b15cf4c80a1c0d350aa52556b689473d8cdbc4
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15412721,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/5283910959,failure,uses same workflow but from ss3sim,2d3063ddce2e2e9d96adb2173bc8336a6e37f8d4
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/5703236360,success,uses same workflow but from ss3sim,65ab941ca41d362318c7ab30cd4e03e02a3709f5
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15212805,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-style/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1454874035,success,"Merge pull request #104 from nmfs-fish-tools/style-code
-
-Style code",cd50bbd2b4d78dd5b590b33f1642b8943a8cde6f
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/5773519361,success,uses same workflow but from ss3sim,65ab941ca41d362318c7ab30cd4e03e02a3709f5
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,23415430,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-bin/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2103366278,success,test update bin workflow,a9fe5db944fcae172664d88fa65f2709b632e9cc
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15212806,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-docs/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1454874034,success,"Merge pull request #104 from nmfs-fish-tools/style-code
-
-Style code",cd50bbd2b4d78dd5b590b33f1642b8943a8cde6f
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,23419345,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-ss3/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/2190687326,success,test changes to updating ss3 binaries,be5911220ed037686d01f3de42d4bbec08bfec2d
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,29155152,https://github.com/nmfs-fish-tools/SSMSE/workflows/Generate%20JOSS%20pdf/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/5626032696,success,add caption to workflow diagram,a00f1b6534a424ee1881460876ce82dd488989ea
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,4041347,https://github.com/nmfs-fish-tools/SSMSE/workflows/R-CMD-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/1409345113,success,bump version,73f0bd09d10fb43576e4085996c3da9af688a5f7
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,16091679,https://github.com/nmfs-fish-tools/SSMSE/workflows/Render%20README/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/3084064538,success,test double curly braces in problem bib entry,86f2e8bca93f224929de1ec05b92d15dea463509
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,14,14,4,27,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,20212874,https://github.com/nmfs-fish-tools/SSMSE/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/5284005738,success,Deploying to gh-pages from @ nmfs-fish-tools/SSMSE@65ab941ca41d362318c7ab30cd4e03e02a3709f5 🚀,b340f4e7993ac524edd0aa84d988e085119bd673
 nmfs-fish-tools,STATCAM,nmfs-fish-tools/STATCAM,0,0,0,0,2,https://github.com/nmfs-fish-tools/STATCAM,FALSE,NA,NA,NA,NA,NA,NA
@@ -64,8 +56,8 @@ nmfs-fish-tools,VRD,nmfs-fish-tools/VRD,0,0,0,0,2,https://github.com/nmfs-fish-t
 nmfs-fish-tools,YPR,nmfs-fish-tools/YPR,0,0,0,0,2,https://github.com/nmfs-fish-tools/YPR,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,YPRLEN,nmfs-fish-tools/YPRLEN,0,0,0,0,2,https://github.com/nmfs-fish-tools/YPRLEN,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,agTrend,nmfs-fish-tools/agTrend,0,0,0,0,1,https://github.com/nmfs-fish-tools/agTrend,FALSE,18383668,https://github.com/nmfs-fish-tools/agTrend/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/agTrend/actions/runs/1740823529,success,update site,43acc13a052ecb8a209c47e15eff88bee89e4959
-nmfs-fish-tools,codespaces4r,nmfs-fish-tools/codespaces4r,5,5,1,1,4,https://github.com/nmfs-fish-tools/codespaces4r,FALSE,40823514,https://github.com/nmfs-fish-tools/codespaces4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/codespaces4r/actions/runs/4872377715,success,add r cmd check badge,bbd808e129b224949d290456728bb96c0ce2e2a4
-nmfs-fish-tools,codespaces4r,nmfs-fish-tools/codespaces4r,5,5,1,1,4,https://github.com/nmfs-fish-tools/codespaces4r,FALSE,41104764,https://github.com/nmfs-fish-tools/codespaces4r/workflows/Codespaces%20Prebuilds/badge.svg,https://github.com/nmfs-fish-tools/codespaces4r/actions/runs/3515793862,success,fix: rm doxygen,85e9ad411f1a4076e5b9a1a51eeca7d09f22a944
+nmfs-fish-tools,codespaces4r,nmfs-fish-tools/codespaces4r,5,5,1,0,4,https://github.com/nmfs-fish-tools/codespaces4r,FALSE,40823514,https://github.com/nmfs-fish-tools/codespaces4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/codespaces4r/actions/runs/5715574433,NA,add abandoned badge.,c5a29a705ef1585e8ae8fbeaa08a1dd01c85109f
+nmfs-fish-tools,codespaces4r,nmfs-fish-tools/codespaces4r,5,5,1,0,4,https://github.com/nmfs-fish-tools/codespaces4r,FALSE,41104764,https://github.com/nmfs-fish-tools/codespaces4r/workflows/Codespaces%20Prebuilds/badge.svg,https://github.com/nmfs-fish-tools/codespaces4r/actions/runs/3515793862,success,fix: rm doxygen,85e9ad411f1a4076e5b9a1a51eeca7d09f22a944
 nmfs-fish-tools,fishdictionary,nmfs-fish-tools/fishdictionary,3,3,1,22,6,https://github.com/nmfs-fish-tools/fishdictionary,FALSE,36749304,https://github.com/nmfs-fish-tools/fishdictionary/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/fishdictionary/actions/runs/5669512637,success,"Merge pull request #43 from nmfs-fish-tools/update-text-mining-analysis
 
 Update text mining analysis",bf220bc67262206ec58101e4ae84fb63f2fc6aed
@@ -77,16 +69,64 @@ nmfs-fish-tools,fishsad,nmfs-fish-tools/fishsad,1,1,0,0,2,https://github.com/nmf
 nmfs-fish-tools,ghBackup,nmfs-fish-tools/ghBackup,0,0,0,2,2,https://github.com/nmfs-fish-tools/ghBackup,FALSE,35081087,https://github.com/nmfs-fish-tools/ghBackup/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghBackup/actions/runs/3364060761,failure,style: style R code,b2813737019d9909c053a93cd4645bfbbbf4b27b
 nmfs-fish-tools,ghBackup,nmfs-fish-tools/ghBackup,0,0,0,2,2,https://github.com/nmfs-fish-tools/ghBackup,FALSE,25012026,https://github.com/nmfs-fish-tools/ghBackup/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghBackup/actions/runs/3364060752,success,style: style R code,b2813737019d9909c053a93cd4645bfbbbf4b27b
 nmfs-fish-tools,ghBackup,nmfs-fish-tools/ghBackup,0,0,0,2,2,https://github.com/nmfs-fish-tools/ghBackup,FALSE,24537480,https://github.com/nmfs-fish-tools/ghBackup/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghBackup/actions/runs/3364085937,success,Built site for ghBackup: 0.0.0.9000@b281373,3d77e441b92e89f59908e00d50c17e67fe98c7e2
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289604,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5645602980,success,tmp: simplify build trigger,6d59c770b4baf712f6888ce923e8d0bbe9249350
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5703133185,success,"#90, fix: add apt-get update",0d3740f23082034dc0c904b91eacf80021e144d5
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,48736263,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-spell-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5645789764,success,"#90, fix: add apt-get update",0d3740f23082034dc0c904b91eacf80021e144d5
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18194925,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5645789770,success,"#90, fix: add apt-get update",0d3740f23082034dc0c904b91eacf80021e144d5
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289604,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5717133682,success,"Update use_update_pkgdown  (#94)
+
+* fix: update readme
+
+* fix: misnamed function
+
+* devtools::document to update namespace
+
+* fix: name in test
+
+---------
+
+Co-authored-by: Bai Li - NOAA <59936250+Bai-Li-NOAA@users.noreply.github.com>",da05bc3241a3923b9a859faf45ff6a4ad20e13ea
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5773418940,success,"Update use_update_pkgdown  (#94)
+
+* fix: update readme
+
+* fix: misnamed function
+
+* devtools::document to update namespace
+
+* fix: name in test
+
+---------
+
+Co-authored-by: Bai Li - NOAA <59936250+Bai-Li-NOAA@users.noreply.github.com>",da05bc3241a3923b9a859faf45ff6a4ad20e13ea
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,48736263,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-spell-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5717133678,success,"Update use_update_pkgdown  (#94)
+
+* fix: update readme
+
+* fix: misnamed function
+
+* devtools::document to update namespace
+
+* fix: name in test
+
+---------
+
+Co-authored-by: Bai Li - NOAA <59936250+Bai-Li-NOAA@users.noreply.github.com>",da05bc3241a3923b9a859faf45ff6a4ad20e13ea
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18194925,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5717133689,success,"Update use_update_pkgdown  (#94)
+
+* fix: update readme
+
+* fix: misnamed function
+
+* devtools::document to update namespace
+
+* fix: name in test
+
+---------
+
+Co-authored-by: Bai Li - NOAA <59936250+Bai-Li-NOAA@users.noreply.github.com>",da05bc3241a3923b9a859faf45ff6a4ad20e13ea
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289606,https://github.com/nmfs-fish-tools/ghactions4r/workflows/style%20r%20code%20with%20styler/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/2197258089,failure,fix indentation,b4163235ad1aa854beb8585efc0f5234866e1e98
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,37808185,https://github.com/nmfs-fish-tools/ghactions4r/workflows/Run%20gitleaks/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/3276348247,success,"feat , #23: add gitleaks",95dbc7cf1fafdbaa17cd928e0b3bd153f55479f8
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,41107847,https://github.com/nmfs-fish-tools/ghactions4r/workflows/Codespaces%20Prebuilds/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/3515886339,success,use codespaces4r::add_codespace() to add a codespace,5a2517ab5f9e4d4329a76552422fa10ba8819f0e
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18195320,https://github.com/nmfs-fish-tools/ghactions4r/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5645817613,success,Built site for ghactions4r: 0.0.4@0d3740f,8db0d250413011c7a7fd392f481ebdf1b39591b9
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,9,9,1,11,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18195320,https://github.com/nmfs-fish-tools/ghactions4r/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/5717166157,success,Built site for ghactions4r: 0.0.4@da05bc3,674c86bab2618ed045219b7850fd90cb80038c3e
 nmfs-fish-tools,ht4sa,nmfs-fish-tools/ht4sa,3,3,1,3,5,https://github.com/nmfs-fish-tools/ht4sa,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,journals,nmfs-fish-tools/journals,11,11,0,5,2,https://github.com/nmfs-fish-tools/journals,FALSE,32040731,https://github.com/nmfs-fish-tools/journals/workflows/sync%20math.utah.edu%20fishery-journals/badge.svg,https://github.com/nmfs-fish-tools/journals/actions/runs/5645218105,success,Updates journals bib files using download.yml,6466e7031b299fffc927e36200b0b4e107baf9e5
+nmfs-fish-tools,journals,nmfs-fish-tools/journals,11,11,0,5,2,https://github.com/nmfs-fish-tools/journals,FALSE,32040731,https://github.com/nmfs-fish-tools/journals/workflows/sync%20math.utah.edu%20fishery-journals/badge.svg,https://github.com/nmfs-fish-tools/journals/actions/runs/5715068001,success,Updates journals bib files using download.yml,6466e7031b299fffc927e36200b0b4e107baf9e5
 nmfs-fish-tools,minimizR,nmfs-fish-tools/minimizR,0,0,1,0,2,https://github.com/nmfs-fish-tools/minimizR,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,nmfSharedUtilities,nmfs-fish-tools/nmfSharedUtilities,0,0,2,0,2,https://github.com/nmfs-fish-tools/nmfSharedUtilities,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,nmfs-fish-tools.github.io,nmfs-fish-tools/nmfs-fish-tools.github.io,3,3,1,1,2,https://github.com/nmfs-fish-tools/nmfs-fish-tools.github.io,FALSE,17757603,https://github.com/nmfs-fish-tools/nmfs-fish-tools.github.io/workflows/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/nmfs-fish-tools.github.io/actions/runs/4633025940,success,"Merge pull request #9 from nmfs-fish-tools/simplify_nmfs_fish_tools
