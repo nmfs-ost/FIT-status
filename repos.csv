@@ -3,7 +3,7 @@ nmfs-fish-tools,.github,nmfs-fish-tools/.github,0,0,0,0,0,https://github.com/nmf
 nmfs-fish-tools,AA-SI,nmfs-fish-tools/AA-SI,2,2,1,0,6,https://github.com/nmfs-fish-tools/AA-SI,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,ADinR,nmfs-fish-tools/ADinR,0,0,0,1,5,https://github.com/nmfs-fish-tools/ADinR,FALSE,97315598,https://github.com/nmfs-fish-tools/ADinR/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/ADinR/actions/runs/9005966822,failure,Update catch_at_age2.R,8b64de58d91bda1f3f5cf15fd7fbb3c306c3f2e4
 nmfs-fish-tools,Atlantis_Availability,nmfs-fish-tools/Atlantis_Availability,0,0,0,0,1,https://github.com/nmfs-fish-tools/Atlantis_Availability,FALSE,97315611,https://github.com/nmfs-fish-tools/Atlantis_Availability/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/Atlantis_Availability/actions/runs/9005967829,failure,Fixed nan bug,85629bf25b8c1e7edeac8d5721e2cc63d7917762
-nmfs-fish-tools,DisMAP,nmfs-fish-tools/DisMAP,1,1,3,1,2,https://github.com/nmfs-fish-tools/DisMAP,FALSE,NA,NA,NA,NA,NA,NA
+nmfs-fish-tools,DisMAP,nmfs-fish-tools/DisMAP,2,2,3,1,2,https://github.com/nmfs-fish-tools/DisMAP,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,Donut_Tool,nmfs-fish-tools/Donut_Tool,0,0,0,0,1,https://github.com/nmfs-fish-tools/Donut_Tool,FALSE,97315609,https://github.com/nmfs-fish-tools/Donut_Tool/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/Donut_Tool/actions/runs/9005967523,failure,"Merge branch 'master' of https://github.com/NMFS-ecosystem-tools/Donut_Tool
 Removed warnings.",78436783624fa9de223cddcf13d6715dc2fff4b4
 nmfs-fish-tools,Ecosystem-Modeling-Guidance,nmfs-fish-tools/Ecosystem-Modeling-Guidance,0,0,0,0,1,https://github.com/nmfs-fish-tools/Ecosystem-Modeling-Guidance,FALSE,NA,NA,NA,NA,NA,NA
@@ -18,18 +18,18 @@ nmfs-fish-tools,NMFS_Assert,nmfs-fish-tools/NMFS_Assert,0,0,0,0,2,https://github
 nmfs-fish-tools,REMORA,nmfs-fish-tools/REMORA,0,0,1,0,2,https://github.com/nmfs-fish-tools/REMORA,FALSE,97315612,https://github.com/nmfs-fish-tools/REMORA/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/REMORA/actions/runs/9005967833,failure,Mods for 1.7.5,ddef3c9b702c5535a0b2d76102e3ed94419e476b
 nmfs-fish-tools,REMORA,nmfs-fish-tools/REMORA,0,0,1,0,2,https://github.com/nmfs-fish-tools/REMORA,FALSE,17780148,https://github.com/nmfs-fish-tools/REMORA/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/REMORA/actions/runs/6398078412,success,Mods for 1.7.5,ddef3c9b702c5535a0b2d76102e3ed94419e476b
 nmfs-fish-tools,Resources,nmfs-fish-tools/Resources,4,4,4,2,4,https://github.com/nmfs-fish-tools/Resources,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14596404,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/11862263567,startup_failure,"bug: sample_struct_hist
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14596404,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/11862263567,startup_failure,"bug: sample_struct_hist
 
 Fix bug where running convert_to_r4ss_names on a NULL sample_struct_hist made it into an empty list causing errors in later code.",f8662fb13bc031f4846ff12043aefdd9f3aa7dd7
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15412721,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/9226599777,success,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,16091679,https://github.com/nmfs-fish-tools/SSMSE/workflows/Render%20README/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/8515869774,success,rm other uneeded workflows,07850edb449c1ff194dc1e94101d019b8dae87ab
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,20212874,https://github.com/nmfs-fish-tools/SSMSE/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/9226634459,success,Deploying to gh-pages from @ nmfs-fish-tools/SSMSE@1f12b27f65403062d914a79d6e239e5ccb3e9dc0 🚀,4e67aba54655200a90d862d92a81bc6dc77b8edb
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,92004894,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/8515178981,success,try a pkgdown build workflow,e1e5f42e064dae1ef4f33d1d8dc4216cadfc9f60
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,92006431,https://github.com/nmfs-fish-tools/SSMSE/workflows/deploy%20pkgdown%20and%20user%20manual/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/9226599763,success,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,95665510,https://github.com/nmfs-fish-tools/SSMSE/workflows/gitleaks/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/8853743150,success,"test secret scanning
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,15412721,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/9226599777,success,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,16091679,https://github.com/nmfs-fish-tools/SSMSE/workflows/Render%20README/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/8515869774,success,rm other uneeded workflows,07850edb449c1ff194dc1e94101d019b8dae87ab
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,20212874,https://github.com/nmfs-fish-tools/SSMSE/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/9226634459,success,Deploying to gh-pages from @ nmfs-fish-tools/SSMSE@1f12b27f65403062d914a79d6e239e5ccb3e9dc0 🚀,4e67aba54655200a90d862d92a81bc6dc77b8edb
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,92004894,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/8515178981,success,try a pkgdown build workflow,e1e5f42e064dae1ef4f33d1d8dc4216cadfc9f60
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,92006431,https://github.com/nmfs-fish-tools/SSMSE/workflows/deploy%20pkgdown%20and%20user%20manual/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/9226599763,success,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,95665510,https://github.com/nmfs-fish-tools/SSMSE/workflows/gitleaks/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/8853743150,success,"test secret scanning
 
 No need to merge this branch into main",931617e6b4e1773e6b333f232c41095511a889a2
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,18,18,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/11309916250,failure,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,19,19,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/11309916250,failure,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
 nmfs-fish-tools,VES-V,nmfs-fish-tools/VES-V,2,2,0,0,2,https://github.com/nmfs-fish-tools/VES-V,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,agTrend,nmfs-fish-tools/agTrend,0,0,0,0,0,https://github.com/nmfs-fish-tools/agTrend,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,codespaces4r,nmfs-fish-tools/codespaces4r,5,5,1,0,3,https://github.com/nmfs-fish-tools/codespaces4r,FALSE,40823514,https://github.com/nmfs-fish-tools/codespaces4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/codespaces4r/actions/runs/6422895817,success,Update README.md,b486c701e27163ea2c836938c49224cf797579de
@@ -44,74 +44,28 @@ nmfs-fish-tools,fishsad,nmfs-fish-tools/fishsad,1,1,0,0,2,https://github.com/nmf
 nmfs-fish-tools,ghBackup,nmfs-fish-tools/ghBackup,0,0,0,2,3,https://github.com/nmfs-fish-tools/ghBackup,FALSE,84570889,https://github.com/nmfs-fish-tools/ghBackup/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/ghBackup/actions/runs/7747781424,success,GHA: add yml file to calculate code coverage,968e96804f252eda7b6a41ab041ddf75bf891ec1
 nmfs-fish-tools,ghBackup,nmfs-fish-tools/ghBackup,0,0,0,2,3,https://github.com/nmfs-fish-tools/ghBackup,FALSE,35081087,https://github.com/nmfs-fish-tools/ghBackup/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghBackup/actions/runs/7747781404,success,GHA: add yml file to calculate code coverage,968e96804f252eda7b6a41ab041ddf75bf891ec1
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289603,https://github.com/nmfs-fish-tools/ghactions4r/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/9293801172,failure,fix spaces,3456d100a858796027f754ce70462b633054eb38
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,99477181,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-build-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/11977742757,success,"feat: add additional args to yaml files
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,99477181,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-build-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12032218514,success,"Merge pull request #147 from nmfs-fish-tools/add-additional-args-to-yaml
 
-- update the following YAML files to support additional arguments on
-  Windows, macOS, and Ubuntu: .github/workflows/build-pkgdown.yml,
-  .github/workflows/r-cmd-check.yml, and
-  .github/workflows/update-pkgdown.yml
-- allow additional arguments to be specified after checking out the repo
-  and before setting up R
-- add a helper function validate_additional_args() to validate
-  additional arguments for R functions
-- add a helper function add_args() to include platform-specific
-  additional arguments in a YAML file
-- add additional_args to use_r_cmd_check(), use_update_pkgdown(), and
-  use_build_pkgdown() to pass additional arguments to YAML files (e.g.,
-  call_*.yml)
-- add unit and integration tests to verify the new feature
-- update the WORDLIST to pass the spell check
-- import the cli package and use its functions to signal errors with a cli
-  formatted message",29b7717925a2023efb337f1992bce493508d218f
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,83864629,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/11977742758,success,"feat: add additional args to yaml files
+feat: add additional args to yaml files",540ba70d4d4f728d1f6d4510c7692851d6a636c3
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,83864629,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12032218482,success,"Merge pull request #147 from nmfs-fish-tools/add-additional-args-to-yaml
 
-- update the following YAML files to support additional arguments on
-  Windows, macOS, and Ubuntu: .github/workflows/build-pkgdown.yml,
-  .github/workflows/r-cmd-check.yml, and
-  .github/workflows/update-pkgdown.yml
-- allow additional arguments to be specified after checking out the repo
-  and before setting up R
-- add a helper function validate_additional_args() to validate
-  additional arguments for R functions
-- add a helper function add_args() to include platform-specific
-  additional arguments in a YAML file
-- add additional_args to use_r_cmd_check(), use_update_pkgdown(), and
-  use_build_pkgdown() to pass additional arguments to YAML files (e.g.,
-  call_*.yml)
-- add unit and integration tests to verify the new feature
-- update the WORDLIST to pass the spell check
-- import the cli package and use its functions to signal errors with a cli
-  formatted message",29b7717925a2023efb337f1992bce493508d218f
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289604,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/10921327306,success,"Merge pull request #142 from nmfs-fish-tools/fix-rm_dollar_sign
+feat: add additional args to yaml files",540ba70d4d4f728d1f6d4510c7692851d6a636c3
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289604,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12032218509,success,"Merge pull request #147 from nmfs-fish-tools/add-additional-args-to-yaml
 
-fix: update rm_dollar_sign() to handle parentheses",00f262257f9cf24e98f8b8e1c666214a7f1007a4
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/11991429563,failure,"Merge pull request #146 from nmfs-fish-tools/linux-pkgs-update-pkgdown
+feat: add additional args to yaml files",540ba70d4d4f728d1f6d4510c7692851d6a636c3
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12100461625,success,"Merge pull request #147 from nmfs-fish-tools/add-additional-args-to-yaml
 
-add linux libraries for ss3 to update-pkgdown.yml",d1ca9b5b68e2ff10356f1ecb9321cae29f9b0368
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,48736263,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-spell-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/11977742770,success,"feat: add additional args to yaml files
+feat: add additional args to yaml files",540ba70d4d4f728d1f6d4510c7692851d6a636c3
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,48736263,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-spell-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12032218512,success,"Merge pull request #147 from nmfs-fish-tools/add-additional-args-to-yaml
 
-- update the following YAML files to support additional arguments on
-  Windows, macOS, and Ubuntu: .github/workflows/build-pkgdown.yml,
-  .github/workflows/r-cmd-check.yml, and
-  .github/workflows/update-pkgdown.yml
-- allow additional arguments to be specified after checking out the repo
-  and before setting up R
-- add a helper function validate_additional_args() to validate
-  additional arguments for R functions
-- add a helper function add_args() to include platform-specific
-  additional arguments in a YAML file
-- add additional_args to use_r_cmd_check(), use_update_pkgdown(), and
-  use_build_pkgdown() to pass additional arguments to YAML files (e.g.,
-  call_*.yml)
-- add unit and integration tests to verify the new feature
-- update the WORDLIST to pass the spell check
-- import the cli package and use its functions to signal errors with a cli
-  formatted message",29b7717925a2023efb337f1992bce493508d218f
+feat: add additional args to yaml files",540ba70d4d4f728d1f6d4510c7692851d6a636c3
 nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,106966906,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-style-description/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/9912740522,success,try error instead,39f02f9df47b4d6c336377ee9cdc0900388fafe0
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18194925,https://github.com/nmfs-fish-tools/ghactions4r/workflows/.github/workflows/call-update-pkgdown.yml/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/11916838335,failure,do not run examples,db581d4a7e33d11c651dc0e91ff784547b264f8b
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18195320,https://github.com/nmfs-fish-tools/ghactions4r/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/11843887499,success,Built site for ghactions4r@0.2.0: d1ca9b5,dbacd66a07e6a5f38c0752687cba9236451b7f75
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18194925,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12032218481,success,"Merge pull request #147 from nmfs-fish-tools/add-additional-args-to-yaml
+
+feat: add additional args to yaml files",540ba70d4d4f728d1f6d4510c7692851d6a636c3
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,17,4,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18195320,https://github.com/nmfs-fish-tools/ghactions4r/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12032262823,success,Built site for ghactions4r@0.2.0: 540ba70,ba313e6934369f1ee3aa35a1f8ccb587fe77c138
 nmfs-fish-tools,ht4sa,nmfs-fish-tools/ht4sa,3,3,1,3,5,https://github.com/nmfs-fish-tools/ht4sa,FALSE,97315595,https://github.com/nmfs-fish-tools/ht4sa/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/ht4sa/actions/runs/9005966792,failure,add some readme info,60f686a086214ebdea3c4a9a8d6ac78f1470faf8
-nmfs-fish-tools,journals,nmfs-fish-tools/journals,13,13,0,5,2,https://github.com/nmfs-fish-tools/journals,FALSE,32040731,https://github.com/nmfs-fish-tools/journals/workflows/sync%20math.utah.edu%20fishery-journals/badge.svg,https://github.com/nmfs-fish-tools/journals/actions/runs/11893164352,success,Updates journals bib files using download.yml,1653d30d0f9f01cf4215690714aa185612c48032
+nmfs-fish-tools,journals,nmfs-fish-tools/journals,13,13,0,5,2,https://github.com/nmfs-fish-tools/journals,FALSE,32040731,https://github.com/nmfs-fish-tools/journals/workflows/sync%20math.utah.edu%20fishery-journals/badge.svg,https://github.com/nmfs-fish-tools/journals/actions/runs/12010749063,success,Updates journals bib files using download.yml,26544acf9d7cc2e1e1177398c2bf0058895487c1
 nmfs-fish-tools,minimizR,nmfs-fish-tools/minimizR,0,0,1,0,1,https://github.com/nmfs-fish-tools/minimizR,FALSE,97315602,https://github.com/nmfs-fish-tools/minimizR/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/minimizR/actions/runs/9005967125,failure,"Merge pull request #6 from nmfs-fish-tools/specific-commit-branch
 
 Revert ""Update README.md""",b1aa0e4e916f64ba69f9a6f429286fae5d606530
