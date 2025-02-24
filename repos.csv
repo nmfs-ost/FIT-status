@@ -3,7 +3,7 @@ nmfs-fish-tools,.github,nmfs-fish-tools/.github,0,0,0,0,0,https://github.com/nmf
 nmfs-fish-tools,AA-SI,nmfs-fish-tools/AA-SI,2,2,1,0,6,https://github.com/nmfs-fish-tools/AA-SI,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,ADinR,nmfs-fish-tools/ADinR,0,0,0,1,5,https://github.com/nmfs-fish-tools/ADinR,FALSE,97315598,https://github.com/nmfs-fish-tools/ADinR/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/ADinR/actions/runs/9005966822,failure,Update catch_at_age2.R,8b64de58d91bda1f3f5cf15fd7fbb3c306c3f2e4
 nmfs-fish-tools,Atlantis_Availability,nmfs-fish-tools/Atlantis_Availability,0,0,0,0,1,https://github.com/nmfs-fish-tools/Atlantis_Availability,FALSE,97315611,https://github.com/nmfs-fish-tools/Atlantis_Availability/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/Atlantis_Availability/actions/runs/9005967829,failure,Fixed nan bug,85629bf25b8c1e7edeac8d5721e2cc63d7917762
-nmfs-fish-tools,DisMAP,nmfs-fish-tools/DisMAP,2,2,0,0,2,https://github.com/nmfs-fish-tools/DisMAP,FALSE,137042594,https://github.com/nmfs-fish-tools/DisMAP/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/DisMAP/actions/runs/13285469101,success,python try,40c35b8af21824eceeb90cb6a3f34c3360323cf7
+nmfs-fish-tools,DisMAP,nmfs-fish-tools/DisMAP,2,2,0,0,2,https://github.com/nmfs-fish-tools/DisMAP,FALSE,137042594,https://github.com/nmfs-fish-tools/DisMAP/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/DisMAP/actions/runs/13442550414,success,Update download_Ak script,c08bb644266720152e140bb616dcd401b49e3273
 nmfs-fish-tools,Donut_Tool,nmfs-fish-tools/Donut_Tool,0,0,0,0,1,https://github.com/nmfs-fish-tools/Donut_Tool,FALSE,97315609,https://github.com/nmfs-fish-tools/Donut_Tool/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/Donut_Tool/actions/runs/9005967523,failure,"Merge branch 'master' of https://github.com/NMFS-ecosystem-tools/Donut_Tool
 Removed warnings.",78436783624fa9de223cddcf13d6715dc2fff4b4
 nmfs-fish-tools,Ecosystem-Modeling-Guidance,nmfs-fish-tools/Ecosystem-Modeling-Guidance,0,0,0,0,1,https://github.com/nmfs-fish-tools/Ecosystem-Modeling-Guidance,FALSE,NA,NA,NA,NA,NA,NA
@@ -12,7 +12,7 @@ nmfs-fish-tools,MSSPM,nmfs-fish-tools/MSSPM,1,1,2,0,3,https://github.com/nmfs-fi
 nmfs-fish-tools,MSVPA_X2,nmfs-fish-tools/MSVPA_X2,0,0,0,0,2,https://github.com/nmfs-fish-tools/MSVPA_X2,FALSE,97315603,https://github.com/nmfs-fish-tools/MSVPA_X2/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/MSVPA_X2/actions/runs/9005967133,failure,Updated version number,a8a1b7e2757f9a23ac8c779dd1c76758ba24f4e5
 nmfs-fish-tools,REMORA,nmfs-fish-tools/REMORA,0,0,1,0,2,https://github.com/nmfs-fish-tools/REMORA,FALSE,97315612,https://github.com/nmfs-fish-tools/REMORA/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/REMORA/actions/runs/9005967833,failure,Mods for 1.7.5,ddef3c9b702c5535a0b2d76102e3ed94419e476b
 nmfs-fish-tools,Resources,nmfs-fish-tools/Resources,4,4,4,2,4,https://github.com/nmfs-fish-tools/Resources,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,20,20,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/13349856891,failure,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
+nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,20,20,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14567602,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/13477801484,failure,style and docs: run devtools::document() and styler::style_pkg(),1f12b27f65403062d914a79d6e239e5ccb3e9dc0
 nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,20,20,11,30,9,https://github.com/nmfs-fish-tools/SSMSE,FALSE,14596404,https://github.com/nmfs-fish-tools/SSMSE/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/SSMSE/actions/runs/13182451802,startup_failure,"Update forecast file to adjust allocation year
 
 Updated BiasEM (1), RatioBiasEM (4 versions), and PercentChangeEM (2 versions) functions to advance the year of allocation specification",777a9d4e5fd4a4449869822f46d54349ab92cf08
@@ -25,8 +25,6 @@ nmfs-fish-tools,SSMSE,nmfs-fish-tools/SSMSE,20,20,11,30,9,https://github.com/nmf
 
 No need to merge this branch into main",931617e6b4e1773e6b333f232c41095511a889a2
 nmfs-fish-tools,VES-V,nmfs-fish-tools/VES-V,2,2,0,0,2,https://github.com/nmfs-fish-tools/VES-V,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,agTrend,nmfs-fish-tools/agTrend,0,0,0,0,0,https://github.com/nmfs-fish-tools/agTrend,FALSE,NA,NA,NA,NA,NA,NA
-nmfs-fish-tools,codespaces4r,nmfs-fish-tools/codespaces4r,5,5,1,0,3,https://github.com/nmfs-fish-tools/codespaces4r,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,fishdictionary,nmfs-fish-tools/fishdictionary,5,5,1,24,8,https://github.com/nmfs-fish-tools/fishdictionary,FALSE,36749304,https://github.com/nmfs-fish-tools/fishdictionary/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/fishdictionary/actions/runs/10048234371,success,"Merge pull request #53 from nmfs-fish-tools/shiny_app
 
 Shiny app",3b7d01b4bd6055fa2fd8be1c5044dc1652ac45cf
@@ -37,30 +35,63 @@ nmfs-fish-tools,fishdictionary,nmfs-fish-tools/fishdictionary,5,5,1,24,8,https:/
 nmfs-fish-tools,fishsad,nmfs-fish-tools/fishsad,1,1,0,0,2,https://github.com/nmfs-fish-tools/fishsad,FALSE,NA,NA,NA,NA,NA,NA
 nmfs-fish-tools,ghBackup,nmfs-fish-tools/ghBackup,0,0,0,2,3,https://github.com/nmfs-fish-tools/ghBackup,FALSE,84570889,https://github.com/nmfs-fish-tools/ghBackup/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/ghBackup/actions/runs/7747781424,success,GHA: add yml file to calculate code coverage,968e96804f252eda7b6a41ab041ddf75bf891ec1
 nmfs-fish-tools,ghBackup,nmfs-fish-tools/ghBackup,0,0,0,2,3,https://github.com/nmfs-fish-tools/ghBackup,FALSE,35081087,https://github.com/nmfs-fish-tools/ghBackup/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghBackup/actions/runs/7747781404,success,GHA: add yml file to calculate code coverage,968e96804f252eda7b6a41ab041ddf75bf891ec1
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289603,https://github.com/nmfs-fish-tools/ghactions4r/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/9293801172,failure,fix spaces,3456d100a858796027f754ce70462b633054eb38
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,99477181,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-build-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12419345131,success,style and docs: run devtools::document() and styler::style_pkg(),250f3dbd329a931bc4fdf8c69551de546fbf005a
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,83864629,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12419345134,success,style and docs: run devtools::document() and styler::style_pkg(),250f3dbd329a931bc4fdf8c69551de546fbf005a
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289604,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12419345156,success,style and docs: run devtools::document() and styler::style_pkg(),250f3dbd329a931bc4fdf8c69551de546fbf005a
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13349773875,success,style and docs: run devtools::document() and styler::style_pkg(),250f3dbd329a931bc4fdf8c69551de546fbf005a
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,48736263,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-spell-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12419345170,success,style and docs: run devtools::document() and styler::style_pkg(),250f3dbd329a931bc4fdf8c69551de546fbf005a
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,106966906,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-style-description/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/9912740522,success,try error instead,39f02f9df47b4d6c336377ee9cdc0900388fafe0
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18194925,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13190359669,success,style and docs: run devtools::document() and styler::style_pkg(),250f3dbd329a931bc4fdf8c69551de546fbf005a
-nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,15,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18195320,https://github.com/nmfs-fish-tools/ghactions4r/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13190398520,success,Built site for ghactions4r@0.2.0: 250f3db,115732e4ee6ac40acc3061c762f1449f091b76d5
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289603,https://github.com/nmfs-fish-tools/ghactions4r/workflows/calc-coverage/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/9293801172,failure,fix spaces,3456d100a858796027f754ce70462b633054eb38
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,99477181,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-build-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13464718292,success,"update names of arguments
+
+Per the v5 code cov release notes.",077946780b4c1172405aa61ba0f2f7e3a44aa2b9
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,83864629,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-calc_coverage/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13464718279,success,"update names of arguments
+
+Per the v5 code cov release notes.",077946780b4c1172405aa61ba0f2f7e3a44aa2b9
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289604,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/12419345156,success,style and docs: run devtools::document() and styler::style_pkg(),250f3dbd329a931bc4fdf8c69551de546fbf005a
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,17289605,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13477715025,success,"Bump peter-evans/create-pull-request from 5 to 7
+
+Bumps [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) from 5 to 7.
+- [Release notes](https://github.com/peter-evans/create-pull-request/releases)
+- [Commits](https://github.com/peter-evans/create-pull-request/compare/v5...v7)
+
+---
+updated-dependencies:
+- dependency-name: peter-evans/create-pull-request
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",04bc051f3c1af316b614e615a8430db6fdda8241
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,48736263,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-spell-check/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13464718271,success,"update names of arguments
+
+Per the v5 code cov release notes.",077946780b4c1172405aa61ba0f2f7e3a44aa2b9
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,106966906,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-style-description/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/9912740522,success,try error instead,39f02f9df47b4d6c336377ee9cdc0900388fafe0
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18194925,https://github.com/nmfs-fish-tools/ghactions4r/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13464663342,success,"Bump peter-evans/create-pull-request from 5 to 7
+
+Bumps [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) from 5 to 7.
+- [Release notes](https://github.com/peter-evans/create-pull-request/releases)
+- [Commits](https://github.com/peter-evans/create-pull-request/compare/v5...v7)
+
+---
+updated-dependencies:
+- dependency-name: peter-evans/create-pull-request
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",04bc051f3c1af316b614e615a8430db6fdda8241
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,145590992,https://github.com/nmfs-fish-tools/ghactions4r/actions/workflows/dependabot/dependabot-updates/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13462807557,success,#153: add dependabot to keep ghas up to date,488cf9356cd79c0862df684dfdd1986c7a2530c3
+nmfs-fish-tools,ghactions4r,nmfs-fish-tools/ghactions4r,12,12,1,16,5,https://github.com/nmfs-fish-tools/ghactions4r,FALSE,18195320,https://github.com/nmfs-fish-tools/ghactions4r/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/ghactions4r/actions/runs/13464687286,success,Built site for ghactions4r@0.2.0: 04bc051,b1cd01ae388f804704729e74151df863d918a346
 nmfs-fish-tools,ht4sa,nmfs-fish-tools/ht4sa,3,3,1,3,5,https://github.com/nmfs-fish-tools/ht4sa,FALSE,97315595,https://github.com/nmfs-fish-tools/ht4sa/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/ht4sa/actions/runs/9005966792,failure,add some readme info,60f686a086214ebdea3c4a9a8d6ac78f1470faf8
 nmfs-fish-tools,nmfSharedUtilities,nmfs-fish-tools/nmfSharedUtilities,0,0,2,0,2,https://github.com/nmfs-fish-tools/nmfSharedUtilities,FALSE,97315606,https://github.com/nmfs-fish-tools/nmfSharedUtilities/actions/workflows/github-code-scanning/codeql/badge.svg,https://github.com/nmfs-fish-tools/nmfSharedUtilities/actions/runs/11660046111,success,Mods for 1.7.5,776c7e02e992ee14365162db6f350bb8866bcaa5
-nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,5,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,137466941,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-build-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958545140,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
+nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,6,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,137466941,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-build-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958545140,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
 
 Style code and document",56990eeba847aa8b5dcf709c8b46ec1105471f82
-nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,5,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,18193487,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958545136,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
+nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,6,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,18193487,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958545136,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
 
 Style code and document",56990eeba847aa8b5dcf709c8b46ec1105471f82
-nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,5,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,17850998,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/13350055244,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
+nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,6,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,17850998,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/13478001838,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
 
 Style code and document",56990eeba847aa8b5dcf709c8b46ec1105471f82
-nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,5,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,18273108,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958545138,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
+nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,6,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,18273108,https://github.com/nmfs-fish-tools/nmfspalette/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958545138,success,"Merge pull request #41 from nmfs-fish-tools/style-doc-code
 
 Style code and document",56990eeba847aa8b5dcf709c8b46ec1105471f82
-nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,5,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,17483933,https://github.com/nmfs-fish-tools/nmfspalette/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958580067,success,Built site for nmfspalette@3.0.0.000: 56990ee,33f85dd2503fd2c985c3c2b11683283ecf4b940d
+nmfs-fish-tools,nmfspalette,nmfs-fish-tools/nmfspalette,30,30,8,3,6,https://github.com/nmfs-fish-tools/nmfspalette,FALSE,17483933,https://github.com/nmfs-fish-tools/nmfspalette/actions/workflows/pages/pages-build-deployment/badge.svg,https://github.com/nmfs-fish-tools/nmfspalette/actions/runs/12958580067,success,Built site for nmfspalette@3.0.0.000: 56990ee,33f85dd2503fd2c985c3c2b11683283ecf4b940d
 nmfs-fish-tools,projectstats,nmfs-fish-tools/projectstats,1,1,0,1,3,https://github.com/nmfs-fish-tools/projectstats,FALSE,107517005,https://github.com/nmfs-fish-tools/projectstats/workflows/call-doc-and-style-r/badge.svg,https://github.com/nmfs-fish-tools/projectstats/actions/runs/9957919327,success,style and docs: run devtools::document() and styler::style_pkg(),014ed6812fe95c41536be2c4ddbd3c0485ada309
 nmfs-fish-tools,projectstats,nmfs-fish-tools/projectstats,1,1,0,1,3,https://github.com/nmfs-fish-tools/projectstats,FALSE,28287678,https://github.com/nmfs-fish-tools/projectstats/workflows/call-update-pkgdown/badge.svg,https://github.com/nmfs-fish-tools/projectstats/actions/runs/9957919338,success,style and docs: run devtools::document() and styler::style_pkg(),014ed6812fe95c41536be2c4ddbd3c0485ada309
 nmfs-fish-tools,projectstats,nmfs-fish-tools/projectstats,1,1,0,1,3,https://github.com/nmfs-fish-tools/projectstats,FALSE,27956419,https://github.com/nmfs-fish-tools/projectstats/workflows/call-r-cmd-check/badge.svg,https://github.com/nmfs-fish-tools/projectstats/actions/runs/9957919329,success,style and docs: run devtools::document() and styler::style_pkg(),014ed6812fe95c41536be2c4ddbd3c0485ada309
